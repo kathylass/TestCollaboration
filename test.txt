@@ -2,3 +2,4 @@ Initial text entry by Kathy
 this has 4 lines
 Today is April 23, 2013
 We are in Palo Alto
+We are learning to use Github, and it is fun!
